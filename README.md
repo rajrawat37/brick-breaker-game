@@ -31,5 +31,6 @@ A simple yet addictive clone of the classic **Brick Breaker** game, built entire
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/rajrawat37/flutter-brick-breaker.git
-cd flutter-brick-breaker
+git clone https://github.com/rajrawat37/brick-breaker-game.git
+cd brick-breaker-game
+
